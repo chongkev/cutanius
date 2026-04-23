@@ -1,0 +1,139 @@
+
+body {
+	background: #FFFFFF; 
+	font-family: verdana;
+	font-size: 14;
+	color: #969695;
+	margin: 0;
+	padding: 0;
+}
+
+.pagebanner {
+	font-family: verdana;
+	font-size: 14;
+	font-weight: bold;
+	color: #B0B0B0;
+	letter-spacing: 10;
+	background-image: url(../graphics/watermark.jpg);
+	width: 600;
+	height: 50;
+}
+
+.mainservicebanner {
+
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	width1: 100%;
+	height1: 100%;
+}
+
+.pagecontent {
+	border-style: solid;
+	border-width: 5;
+	border-color: #404040;
+	width: 598;
+}
+
+.pagesubsection {
+	position: static;
+	margin-left: 20;
+	margin-right: 20;
+	margin-top: 20;
+	margin-bottom: 10;
+}
+
+.pagesubsectiontitle {
+	font-size: 16;
+	font-weight: bolder;
+}
+
+.pagefooter {
+	font-family: 'verdana', Arial;
+	font-size: 10;
+	font-weight: bold;
+	color: #909090;
+	letter-spacing: 4;
+	background-image: url(../graphics/watermark.jpg);
+	width: 600;
+	height: 30;
+}
+
+.pagequote {
+	font: italic 11pt/18pt Georgia, 'Times New Roman'; 
+}
+
+.pagenotes {
+	font-size: 12;
+	font-style: italic;
+	margin-left: 20;
+}
+
+
+.menuitem {
+        font-family: 'verdana', Arial;
+	font-size: 14;
+	color: #5f4e3e;
+}
+
+.menuitem:link {
+	text-decoration: none;
+	color: #5f4e3e;
+}
+
+.menuitem:visited {
+	text-decoration: none;	
+	color: #5f4e3e;
+}
+
+.menuitem:hover {
+	text-decoration: underline;
+	color: #5f4e3e;
+}
+
+.menuitem:active {
+	text-decoration: underline;
+	color: #5f4e3e;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: #FFFFFF;	
+}
+
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;	
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #FFFFFF;	
+}
+
+
+.itemdesc {
+        font-family: 'verdana', Arial;
+	font-size: 13;
+	color: #5f4e3e;
+}
+
+.itemdesc:link {
+	text-decoration: none;
+	color: #5f4e3e;
+}
+
+.itemdesc:visited {
+	text-decoration: none;	
+	color: #5f4e3e;
+}
+
+.itemdesc:hover {
+	text-decoration: underline;
+	color: #5f4e3e;
+}
+
+.itemdesc:active {
+	text-decoration: underline;
+	color: #5f4e3e;
+}
